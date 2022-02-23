@@ -49,7 +49,7 @@ export default function Home({connections}) {
         
         <div className='flex flex-col items-center bg-zinc-300 max-w-2xl h-1/2 justify-center content-center rounded-md border-black 
         contrast-100 opacity-90' >
-         <h1 className='text-xl antialiased font-bold flex mt-1'>User Login</h1>
+         <h1 className='text-xl antialiased font-bold flex mt-1'>Login Page</h1>
       <div className='px-4 ml-4 mr-4 flex items-center border-1
         bg-white shadow-sm rounded-full mt-11'>
         <div className='p-1'>
